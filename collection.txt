@@ -1,0 +1,4 @@
+Andrey : bitcoin, 25euro, 1yuan
+Alexey : oldruble, 1yuan, 20peso
+Katya : 5franks, 5peso, old5peso
+Masha : 25euro, old5peso, 20peso
